@@ -4,4 +4,5 @@ this project are mostly private and require you to be added to the group.  To ob
 repositories email ben.collins@utexas.edu with your github user name.
 
 ## Working with repositories
-Each respository has its own set of instructions for viewing, cloning, and contributing.  Once inside a specific repository, the top level README file will document how to perform these tasks.
+Each respository has its own set of instructions for viewing, cloning, and contributing.  Once inside a specific 
+repository, the top level README file will document how to perform these tasks.
